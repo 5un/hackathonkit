@@ -1,0 +1,32 @@
+{
+  "name": "hackathonkit",
+  "version": "1.0.0",
+  "description": "A Hackathon Starter Kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5un/hackathonkit.git"
+  },
+  "keywords": [
+    "Hackathon"
+  ],
+  "author": "Soravis Prakkamakul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/5un/hackathonkit/issues"
+  },
+  "homepage": "https://github.com/5un/hackathonkit#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "next": "^3.2.2",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "styled-components": "^2.1.2"
+  }
+}
